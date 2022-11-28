@@ -20,7 +20,7 @@ console.log("Steps:",)
 console.log("To make classic carbonara, first cut the guanciale into 1cm layers, then into long strips.")
 
 let mixBowl = eggYolk + cheese;
-console.log("Combine the egg yolks 🥚 with the finely grated Pecorino Romano.🧀")
+console.log("Combine the egg yolks  with the finely grated Pecorino Romano.")
 console.log("Weight of ingredients:", mixBowl, "g\n");
 
 let blackPepperBowl = blackPepper;
@@ -28,11 +28,11 @@ console.log("Roast the black pepper on a pan until it smokes and sizzles, and co
 console.log("Weight of ingredients:", blackPepperBowl, "g\n");
 
 let guancialeBowl = guanciale
-console.log("Brown the strips of guanciale🥓 for 3 minutes at medium heat, then 1 minune on high heat til crisp, then turn off the heat, take out the guanciale, leaving only the grease on the pan cool down.")
+console.log("Brown the strips of guanciale for 3 minutes at medium heat, then 1 minune on high heat til crisp, then turn off the heat, take out the guanciale, leaving only the grease on the pan cool down.")
 console.log("Weight of ingredients:", guancialeBowl, "g\n");
 
 let pastaBowl = spaghetti + guancialeBowl;
-console.log("Cook the pasta with a pinch of salt 🧂 in the water (guanciale is already very salty);set aside a ladleful of the pasta water before draining it, then drain the pasta once it is cooked al dente.🍝")
+console.log("Cook the pasta with a pinch of salt  in the water (guanciale is already very salty);set aside a ladleful of the pasta water before draining it, then drain the pasta once it is cooked al dente.")
 console.log("Weight of ingredients:", pastaBowl, "g\n");
 
 pastaBowl += water;
